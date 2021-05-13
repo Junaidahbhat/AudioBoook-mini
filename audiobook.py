@@ -10,6 +10,6 @@ text = page.extractText()                 #for extracting text from pdf
 speaker.say(text)
 speaker.runAndWait()                    #speaker.say('hey look i can talk') step 1
 
-
+# use pip install pyttsx3 and pip install PyPDF2 to install these two files.
 
 
